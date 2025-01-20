@@ -1,4 +1,5 @@
-You are provided with a table named Products containing information about various products, including their names and prices. Write a SQL query to count number of products in each category based on its price into three categories below. Display the output in descending order of no of products.
+You are provided with a table named Products containing information about various products, including their names and prices. 
+Write a SQL query to count number of products in each category based on its price into three categories below. Display the output in descending order of no of products.
 
  
 
